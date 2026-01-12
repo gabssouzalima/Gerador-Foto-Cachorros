@@ -1,10 +1,10 @@
-🐶 Dogs API Gallery
+# 🐶 Dogs API Gallery
 
 Projeto front-end que consome uma API pública para exibir imagens aleatórias de cachorros, utilizando JavaScript puro, DOM, Fetch API e CSS Grid.
 
 O objetivo do projeto é praticar consumo de APIs, manipulação do DOM, controle de estados da interface e organização visual com grid responsivo.
 
-🚀 Funcionalidades
+# 🚀 Funcionalidades
 
 🔄 Consumo da Dog CEO API
 
@@ -31,7 +31,7 @@ Fetch API
 Manipulação do DOM
 
 
-🎯 Objetivo do projeto
+# 🎯 Objetivo do projeto
 
 Este projeto foi desenvolvido com foco em aprendizado prático de:
 
