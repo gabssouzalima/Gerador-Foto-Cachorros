@@ -4,21 +4,20 @@ Projeto front-end que consome uma API pública para exibir imagens aleatórias d
 
 O objetivo do projeto é praticar consumo de APIs, manipulação do DOM, controle de estados da interface e organização visual com grid responsivo.
 
-# 🚀 Funcionalidades
+#  Funcionalidades
 
-🔄 Consumo da Dog CEO API
+1. Consumo da Dog CEO API
 
-🖼️ Exibição de 6 imagens aleatórias por requisição
+2. Exibição de 6 imagens aleatórias por requisição
 
-🎯 Atualização dinâmica das imagens via DOM
+3. Atualização dinâmica das imagens via DOM
 
-⏳ Controle de estado do botão (ex: carregando)
+4. Controle de estado do botão (ex: carregando)
 
-📐 Layout organizado com CSS Grid
+5. Layout organizado com CSS Grid
 
-🎨 Estilização moderna e responsiva
 
-🛠️ Tecnologias utilizadas
+# Tecnologias utilizadas
 
 HTML5
 
@@ -31,16 +30,16 @@ Fetch API
 Manipulação do DOM
 
 
-# 🎯 Objetivo do projeto
+# Objetivo do projeto
 
-Este projeto foi desenvolvido com foco em aprendizado prático de:
+1. Este projeto foi desenvolvido com foco em aprendizado prático de:
 
-Consumo de APIs REST
+2. Consumo de APIs REST
 
-Tratamento de erros em requisições assíncronas
+3. Tratamento de erros em requisições assíncronas
 
-Atualização de elementos do DOM
+4. Atualização de elementos do DOM
 
-Organização visual com CSS Grid
+5. Organização visual com CSS Grid
 
-Simulação de controle de estado sem frameworks
+6. Simulação de controle de estado sem frameworks
